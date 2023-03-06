@@ -21,7 +21,7 @@ from waad import *
 from trans import *
 from config import *
 from t06bot import *
-from checktele import *
+from checktele 
 from yt import *
 
 # -
